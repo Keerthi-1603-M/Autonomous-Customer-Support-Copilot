@@ -154,6 +154,12 @@ streamlit run app.py
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/83868253-6bdd-42a2-82e4-2dd8d33800f5" />
 
 
+### Ticket Dashboard
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/04be3cd5-43f7-4d3a-9bb5-522a53b82494" />
+
+
+
 ### Analytics Dashboard
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0085f482-18de-4b9c-94e3-9133426035ea" />
