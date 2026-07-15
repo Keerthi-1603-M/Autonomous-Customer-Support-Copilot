@@ -141,19 +141,23 @@ streamlit run app.py
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/749cc254-4bef-4e2f-8cfc-61330549335d" />
+
 
 ### Chatbot Response
 
-(Add Screenshot Here)
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/4c1324c3-736b-44e0-a281-4f3547fb4941" />
+
 
 ### Admin Dashboard
 
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/83868253-6bdd-42a2-82e4-2dd8d33800f5" />
+
 
 ### Analytics Dashboard
 
-(Add Screenshot Here)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0085f482-18de-4b9c-94e3-9133426035ea" />
+
 
 ---
 
